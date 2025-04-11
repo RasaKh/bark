@@ -1,5 +1,6 @@
-> Notice: Bark is Suno's open-source text-to-speech+ model. If you are looking for our text-to-music models, please visit us on our [web page](https://suno.ai) and join our community on [Discord](https://suno.ai/discord). 
-
+> Notice: Bark is Suno's open-source text-to-speech+ model. If you are looking for our text-to-music models, please visit us on our [web page](https://suno.ai) and join our community on [Discord](https://suno.ai/discord).
+> FORK: ADDED: weights_only=False
+> FORK ADDED: torch == 2.5
      
 # 🐶 Bark
 
